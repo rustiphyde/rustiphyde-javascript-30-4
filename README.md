@@ -3,3 +3,5 @@ Project 4 in the JavaScript 30 course is one without much CSS so I decided to ad
 Here are some screenshots 
 [shot 1](https://github.com/rustiphyde/rustiphyde.github.io/blob/master/Screenshot%20(22).png)
 [shot 2](https://github.com/rustiphyde/rustiphyde.github.io/blob/master/Screenshot%20(23).png)
+
+This project does not have a Netlify Site.
